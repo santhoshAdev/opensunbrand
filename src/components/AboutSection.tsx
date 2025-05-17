@@ -51,7 +51,7 @@ const AboutSection = () => {
           <div className="order-1 lg:order-2 relative">
             <div className="relative aspect-square rounded-lg overflow-hidden">
               <img 
-                src="public/flat-lay-food-wooden-background.jpg" 
+                src="flat-lay-food-wooden-background.jpg" 
                 alt="shabansunbrand Heritage"
                 className="w-full h-full object-cover" 
               />
