@@ -24,7 +24,7 @@ const slides = [
     id: 3,
     title: 'Family Recipes Passed Down Generations',
     description: 'Traditional blends with authentic taste and aroma',
-    image:'public/delicious-cooked-beans-bowl.jpg',
+    image:'delicious-cooked-beans-bowl.jpg',
     bgColor: 'bg-sakthi-orange',
     link: '#about',
   },
