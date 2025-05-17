@@ -6,7 +6,7 @@ const slides = [
     id: 1,
     title: 'Experience Authentic South Indian Flavors',
     description: 'Premium quality spices and masalas, crafted with tradition',
-    image: 'public/indian-condiments-with-copy-space-view.jpg',
+    image: 'indian-condiments-with-copy-space-view.jpg',
     bgColor: 'bg-sakthi-red',
     link: '#products',
   },
