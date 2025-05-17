@@ -10,7 +10,7 @@ const products = [
     name: "Split Green Gram",
     description: "Split green gram (moong dal) is a nutrient-rich, quick-cooking legume perfect for healthy meals. It’s light, versatile, and easy to digest",
     // price: 120,
-    image: "public/sprouts-seed-white-small-bowl.jpg",
+    image: "sprouts-seed-white-small-bowl.jpg",
     category: "Spice Blends"
   },
   {
@@ -18,7 +18,7 @@ const products = [
     name: "Black Gram",
     description: "Black gram (urad dal) is a protein-packed, versatile legume known for its rich flavor",
     // price: 75,
-    image: "public/black-beans-white-small-bowl-place-dark-floor.jpg",
+    image: "black-beans-white-small-bowl-place-dark-floor.jpg",
     category: "Spice Powders"
   },
   {
@@ -26,7 +26,7 @@ const products = [
     name: "Chana Dal",
     description: "Chana dal is a protein-rich, flavorful legume that’s a staple in many dishes",
     // price: 110,
-    image: "public/raw-soybeans-white-glass-placed-floor.jpg",
+    image: "raw-soybeans-white-glass-placed-floor.jpg",
     category: "Spice Blends"
   },
   {
@@ -42,7 +42,7 @@ const products = [
     name: "Chana Dal555",
     description: "Chana dal is a protein-rich, flavorful legume that’s a staple in many dishes",
     // price: 110,
-    image: "public/raw-soybeans-white-glass-placed-floor.jpg",
+    image: "raw-soybeans-white-glass-placed-floor.jpg",
     category: "Spice Blends"
   },{
     id: 6,
