@@ -7,10 +7,10 @@ import { Button } from '@/components/ui/button';
 const products = [
   {
     id: 1,
-    name: "Split Green Gram",
-    description: "Split green gram (moong dal) is a nutrient-rich, quick-cooking legume perfect for healthy meals. It’s light, versatile, and easy to digest",
+    name: "Black Gram",
+    description: "Black gram (urad dal) is a protein-packed, versatile legume known for its rich flavor",
     // price: 120,
-    image: "sprouts-seed-white-small-bowl.jpg",
+    image: "1.jpg",
     category: "Spice Blends"
   },
   {
@@ -18,7 +18,7 @@ const products = [
     name: "Black Gram",
     description: "Black gram (urad dal) is a protein-packed, versatile legume known for its rich flavor",
     // price: 75,
-    image: "black-beans-white-small-bowl-place-dark-floor.jpg",
+    image: "2.jpg",
     category: "Spice Powders"
   },
   {
@@ -26,7 +26,7 @@ const products = [
     name: "Chana Dal",
     description: "Chana dal is a protein-rich, flavorful legume that’s a staple in many dishes",
     // price: 110,
-    image: "raw-soybeans-white-glass-placed-floor.jpg",
+    image: "3.jpg",
     category: "Spice Blends"
   },
   {
@@ -34,7 +34,7 @@ const products = [
     name: "Idli Dosa Mix",
     description: "Instant mix for perfect breakfast",
     // price: 150,
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?q=80&w=2070&auto=format&fit=crop",
+    image: "4.jpg",
     category: "Ready Mixes"
   },
   {
@@ -42,28 +42,73 @@ const products = [
     name: "Chana Dal555",
     description: "Chana dal is a protein-rich, flavorful legume that’s a staple in many dishes",
     // price: 110,
-    image: "raw-soybeans-white-glass-placed-floor.jpg",
+    image: "5.jpg",
     category: "Spice Blends"
   },{
     id: 6,
     name: "Split Green Gram",
     description: "Split green gram (moong dal) is a nutrient-rich, quick-cooking legume perfect for healthy meals. It’s light, versatile, and easy to digest",
     // price: 120,
-    image: "sprouts-seed-white-small-bowl.jpg",
+    image: "6.jpg",
     category: "Spice Blends"
   }, {
     id: 7,
     name: "Black Gram",
     description: "Black gram (urad dal) is a protein-packed, versatile legume known for its rich flavor",
     // price: 75,
-    image: "black-beans-white-small-bowl-place-dark-floor.jpg",
+    image: "7.jpg",
     category: "Spice Powders"
   },{
     id: 8,
     name: "Idli Dosa Mix",
     description: "Instant mix for perfect breakfast",
     // price: 150,
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?q=80&w=2070&auto=format&fit=crop",
+    image: "8.jpg",
+    category: "Ready Mixes"
+  },
+  {
+    id: 9,
+    name: "Chana Dal",
+    description: "Chana dal is a protein-rich, flavorful legume that’s a staple in many dishes",
+    // price: 110,
+    image: "9.jpg",
+    category: "Spice Blends"
+  },
+  {
+    id: 10,
+    name: "Idli Dosa Mix",
+    description: "Instant mix for perfect breakfast",
+    // price: 150,
+    image: "10.jpg",
+    category: "Ready Mixes"
+  },
+  {
+    id: 11,
+    name: "Chana Dal555",
+    description: "Chana dal is a protein-rich, flavorful legume that’s a staple in many dishes",
+    // price: 110,
+    image: "11.jpg",
+    category: "Spice Blends"
+  },{
+    id: 12,
+    name: "Split Green Gram",
+    description: "Split green gram (moong dal) is a nutrient-rich, quick-cooking legume perfect for healthy meals. It’s light, versatile, and easy to digest",
+    // price: 120,
+    image: "12.jpg",
+    category: "Spice Blends"
+  }, {
+    id: 13,
+    name: "Black Gram",
+    description: "Black gram (urad dal) is a protein-packed, versatile legume known for its rich flavor",
+    // price: 75,
+    image: "13.jpg",
+    category: "Spice Powders"
+  },{
+    id: 14,
+    name: "Idli Dosa Mix",
+    description: "Instant mix for perfect breakfast",
+    // price: 150,
+    image: "14.jpg",
     category: "Ready Mixes"
   }
 ];
